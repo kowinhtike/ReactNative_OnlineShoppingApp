@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Timex Men",
+      "price": "250",
+      "photo": "https://m.media-amazon.com/images/I/71z+YnT3J8L._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Nine West Women",
+      "price": "500",
+      "photo": "https://m.media-amazon.com/images/I/81-HbGIsxVL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "2"
+    },
+    {
+      "name": "BOFAN Nurse",
+      "price": "1000",
+      "photo": "https://m.media-amazon.com/images/I/613T1jt71wL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "3"
+    }
+  ]
